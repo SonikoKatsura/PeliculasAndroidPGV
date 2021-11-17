@@ -1,5 +1,1 @@
-"# PeliculasPGV" 
-"# PeliculasPGV" 
-"# PeliculasPGV" 
-"# PelisPGV" 
-"# PelisPGV" 
+Proyecto PGV base de datos de películas.
